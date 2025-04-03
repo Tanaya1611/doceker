@@ -2,7 +2,7 @@ pipeline{
 	agent any
 		
 	environment{
- 		PROJECT_PATH = "D:/Tanaya/DevOps/DockerDemo"
+ 		PROJECT_PATH = "D://Tanaya//DevOps//DockerDemo"
 		IMAGE_NAME = "my-java-app"
 		   }
 	stages {
